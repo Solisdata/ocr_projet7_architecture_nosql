@@ -11,12 +11,9 @@ Projet réalisé dans le cadre de la formation **Data Engineer – OpenClassRoom
 L’association NosCités analyse l’impact des plateformes de locations de courte durée sur l’offre de logements à Paris et Lyon. Les données sont collectées par scraping (ex. Airbnb) et stockées sur des serveurs physiques.
 
 Un crash total de la base MongoDB des locations parisiennes est survenu. Une sauvegarde étant disponible, le projet vise à :
-
-restaurer la base de données,
-
-vérifier l’intégrité des données,
-
-fiabiliser et pérenniser l’architecture pour éviter de futurs incidents.
+ -  restaurer la base de données,
+ -  vérifier l’intégrité des données,
+ -  fiabiliser et pérenniser l’architecture pour éviter de futurs incidents.
 
 ---
 
